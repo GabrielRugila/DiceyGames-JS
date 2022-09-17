@@ -1,5 +1,0 @@
-dice game
-
-add:
-- 3 dices
-- add 2 play options (against pc and against 2nd player)
